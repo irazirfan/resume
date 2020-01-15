@@ -1,6 +1,6 @@
 {
   "settings": {
-    "name": "My Site",
+    "name": "Iraz Irfan",
     "currentPage": "index.html",
     "theme": {
       "name": "mobirise4",
@@ -39,13 +39,21 @@
     ],
     "versionFirst": "4.7.6",
     "uniqCompNum": 12,
-    "versionPublish": "4.11.6"
+    "versionPublish": "4.11.6",
+    "favicon": "@PROJECT_PATH@/assets/images/icons8-portfolio-50-50x50-1.png",
+    "noImageResize": false,
+    "robotsSwitcher": false,
+    "sitemapSwitcher": false,
+    "sitemapSwitcherAuto": false,
+    "siteUrl": false,
+    "cookiesAlert": false,
+    "gdpr": false
   },
   "pages": {
     "index.html": {
       "settings": {
         "main": true,
-        "title": "Home",
+        "title": "Iraz Irfan",
         "meta_descr": "",
         "header_custom": "",
         "footer_custom": "",
